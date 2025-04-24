@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Cyprian Atsyor!  
 
 ## 🚀 About Me  
-I am a **Master’s student in Computer Science (Cybersecurity)** passionate about **digital forensics, penetration testing, cloud security, and AI-driven security solutions**. I love exploring new technologies, solving cybersecurity challenges, and contributing to open-source projects.  
+I am a **Master’s student in Computer Science (Cybersecurity)** passionate about **digital forensics, SOC Analysis, penetration testing, cloud security, and AI-driven security solutions**. I love exploring new technologies, solving cybersecurity challenges, and contributing to open-source projects.  
 
 ## 🔍 Areas of Interest  
 - 🔐 **Cybersecurity** – Digital forensics, penetration testing, malware analysis  
