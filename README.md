@@ -58,8 +58,12 @@ To secure an entry-level role in Cybersecurity where I can apply my technical sk
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/-Burpsuite-FF6633?&style=for-the-badge&logo=Burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/-VirusTotal-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+</div>
+<div> 
   <img src="https://img.shields.io/badge/-AbuseIPDB-DC3545?&style=for-the-badge&logo=Database&logoColor=white" />
   <img src="https://img.shields.io/badge/-URLscan.io-20232A?&style=for-the-badge&logo=Internet%20Explorer&logoColor=white" />
+</div>
+<div>
   <img src="https://img.shields.io/badge/-Any.run-0080FF?&style=for-the-badge&logo=Runkeeper&logoColor=white" />
 </div>
 
