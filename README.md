@@ -23,6 +23,17 @@ I am a **Master’s student in Computer Science (Cybersecurity)** passionate abo
 
 ---
 
+## 🛠️ Exploring My Core Expertise
+
+| 🛡️ Security Skills | 🛠️ Toolbelt | 🧠 Projects |
+|-------------------|-------------|-------------|
+| Threat Modeling  | Splunk      | **Splunk Data Analysis** – Log analytics, dashboards, SPL  
+| Phishing Sim       | Gophish, SET | **Phishing Simulation Lab** – Campaign deployment & awareness  
+| Network Forensics | Wireshark   | **Python Packet Sniffer** – Live traffic capture  
+| Linux Environments | Kali, Ubuntu | Security-focused Linux workflows |
+
+---
+
 ## 🧰 Tools & Technologies
 
 - 🖥️ **Cybersecurity:** Splunk, Wireshark, Gophish, Social Engineering Toolkit (SET)
@@ -32,14 +43,23 @@ I am a **Master’s student in Computer Science (Cybersecurity)** passionate abo
 
 ---
 
-## 📜 Certifications
+## 🔑 Certifications & Learning
 
-- 🛡️ **[ISC2 Certified in Cybersecurity (CC)](https://www.isc2.org/Certifications/CC)**
-- 📊 **Introduction to Splunk (eLearning)** – Splunk
-- 🔍 Malware Analysis & Cryptology – LetsDefend
+- ![ISC2 CC](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-blue)  
+- ![Splunk eLearning](https://img.shields.io/badge/Splunk-Introduction%20Course-orange)  
+- ![Malware Analysis](https://img.shields.io/badge/Practice-Malware%20Analysis-yellow)
 
 ---
 
+## 💡 Quick Facts
+
+- 🎓 Strong foundation in Linux environments (Ubuntu, Kali)
+- 💬 Skilled with Python (networking modules, data parsing)
+- 📊 Experienced with Splunk-specific SPL commands and dashboarding
+- 🔐 Advocate for ethical hacking, security training, and awareness
+
+  
+---
 
 ## 📫 Let's Connect!  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/cyprianatsyor)  
