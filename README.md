@@ -5,6 +5,12 @@
 ## 🚀 About Me  
 I am a **Master’s student in Computer Science (Cybersecurity)** passionate about **digital forensics, SOC Analysis, penetration testing, cloud security, and AI-driven security solutions**. I love exploring new technologies, solving cybersecurity challenges, and contributing to open-source projects.  
 
+
+---
+## Objective
+
+To secure an entry-level role in Cybersecurity where I can apply my technical skills, certifications, and proactive learning mindset to monitor, defend, and improve organizational security systems. My goal is to grow into a skilled Cybersecurity Engineer contributing to a safer digital world, with a long-term ambition of working internationally.
+
 ---
 
 ## 🔍 Areas of Interest  
@@ -45,12 +51,45 @@ I am a **Master’s student in Computer Science (Cybersecurity)** passionate abo
 
 ---
 
+## Tools
+
+### Network
+<div>
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Burpsuite-FF6633?&style=for-the-badge&logo=Burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VirusTotal-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AbuseIPDB-DC3545?&style=for-the-badge&logo=Database&logoColor=white" />
+  <img src="https://img.shields.io/badge/-URLscan.io-20232A?&style=for-the-badge&logo=Internet%20Explorer&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Any.run-0080FF?&style=for-the-badge&logo=Runkeeper&logoColor=white" />
+</div>
+
+### SIEM
+<div>
+  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-QRadar-0043CE?&style=for-the-badge&logo=IBM&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wazuh-7E57C2?&style=for-the-badge&logo=Wazuh&logoColor=white" /> 
+
+</div>
+
+### Scripting & Automation
+<div>
+  <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
+</div>
+
+
+
 ## 🔑 Certifications & Learning
-
-- ![ISC2 CC](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-blue)  
-- ![Splunk eLearning](https://img.shields.io/badge/Splunk-Introduction%20Course-orange)  
-- ![Malware Analysis](https://img.shields.io/badge/Practice-Malware%20Analysis-yellow)
-
+<div>
+  <img src="https://img.shields.io/badge/-ISC2%20Certified%20in%20Cybersecurity-008000?&style=for-the-badge&logo=ISC2&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Google%20Security%20Operations-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+  <img src="https://img.shields.io/badge/-aws%20Educate-FF0000?&style=for-the-badge&logo=aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LetsDefend%20SOC%20Analyst%20Path-2E86C1?&style=for-the-badge&logo=Shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LetsDenfend%20CySA+%20Path-C209C1?&style=for-the-badge&logo=LetsDefend&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LetsDenfend%20Malware%20Analysis%20Skill%20Path-3ECC5F?&style=for-the-badge&logo=LetsDefend&logoColor=white" />
+</div>
 ---
 
 ## 💡 Quick Facts
