@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Cyprian Atsyor!  
 
+<a href="www.linkedin.com/in/ing-cyprian-atsyor-27816421bc"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
 ## 🚀 About Me  
 I am a **Master’s student in Computer Science (Cybersecurity)** passionate about **digital forensics, SOC Analysis, penetration testing, cloud security, and AI-driven security solutions**. I love exploring new technologies, solving cybersecurity challenges, and contributing to open-source projects.  
 
