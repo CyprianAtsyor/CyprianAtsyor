@@ -2,6 +2,7 @@
 
 <a href="www.linkedin.com/in/ing-cyprian-atsyor-27816421bc"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.credly.com/users/cyprian-atsyor"><img src="https://img.shields.io/badge/-Credly-FF6B00?&style=for-the-badge&logo=Credly&logoColor=white"/></a>
+<a href="https://www.cyprianatsyorjunior@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 ## 🚀 About Me  
 I am a **Master’s student in Computer Science (Cybersecurity)** passionate about **digital forensics, SOC Analysis, penetration testing, cloud security, and AI-driven security solutions**. I love exploring new technologies, solving cybersecurity challenges, and contributing to open-source projects.  
